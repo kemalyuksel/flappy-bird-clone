@@ -2,4 +2,4 @@
 I made a clone of the classic game flappy bird
 
 
-![grab-landing-page](https://github.com/kemalyuksel/flappy-bird-clone/blob/main/flappybirdgif.mp4)
+https://github.com/kemalyuksel/flappy-bird-clone/blob/main/flappybirdgif.mp4
